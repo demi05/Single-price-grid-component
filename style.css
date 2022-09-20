@@ -83,6 +83,9 @@ button{
     border-radius: 0.5rem;
     box-shadow: 5px 10px 20px rgb(105, 103, 103);
 }
+button:hover{
+    cursor: pointer;
+}
 .container-child-secondary-2{
     background-color: var(--Cyan-2);
     color: #fff;
